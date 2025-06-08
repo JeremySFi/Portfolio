@@ -1,4 +1,4 @@
-# Jeremy Jesus Sojos – Portfolio
+# Jeremy Jesus Sojos Fichamba – Portfolio
 
 Welcome to my portfolio! Below are some of the projects I’ve built or contributed to. Including practices and examples.
 Some models locked behind copyright(contract).
