@@ -44,7 +44,7 @@ Some models locked behind copyright(contract).
 - **Role:** Full-stack developer (Front-end + Back-end).
 - **Technologies:** PHP, MySQL, HTML, CSS.
 - **Status:** Completed.
-- **GitHub:** 
+- **GitHub:** https://github.com/JeremySFi/StudentCRUD
   
 ---
 
