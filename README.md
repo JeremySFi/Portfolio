@@ -37,6 +37,17 @@ Some models locked behind copyright(contract).
 - **Status:** Completed. (Locked due to private files)
 - **GitHub:** https://github.com/racso9817/model2
 
+---
+
+## Student Management System (CRUD - PHP & MySQL)
+- **Description:** Simple CRUD web application to manage student records — add, edit, delete, and list student data using a MySQL database.
+- **Role:** Full-stack developer (Front-end + Back-end).
+- **Technologies:** PHP, MySQL, HTML, CSS.
+- **Status:** Completed.
+- **GitHub:** 
+  
+---
+
 ## TicTacToe (Typescript practice)
 - **Description:** Game made with only typescript.
 - **Technologies:** Typescript.
@@ -44,6 +55,14 @@ Some models locked behind copyright(contract).
 - **GitHub:** https://github.com/JeremySFi/tictactry1
 
 ---
+
+## In Progress
+
+- **Online Shoe Store (Laravel):** A work-in-progress e-commerce project using Laravel, MySQL, and Blade templates. Currently focused on implementing product catalog and user authentication.
+
+- **Game development practice(Godot Engine):** Work in progress of a videogame using Godot Engine. Currently learning C#.
+
+- 
 
 
 
