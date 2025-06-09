@@ -25,7 +25,8 @@ Mi rol abarcó tanto el desarrollo front-end como algunas tareas de back-end, de
 - **Technologies:** HTML, CSS(SASS), BOOTSTRAP, TYPESCRIPT, JAVASCRIPT.
 - **Status:** Completed.
 - **GitHub:** https://github.com/racso9817/model1
-  
+![modelo1](https://github.com/user-attachments/assets/e15c3fe7-c222-4f46-8485-289d400c706e)
+
 ---
 
 ## Webpage Model for Business Use with Contact Form
@@ -34,7 +35,8 @@ Mi rol abarcó tanto el desarrollo front-end como algunas tareas de back-end, de
 - **Technologies:** HTML, CSS(SASS), BOOTSTRAP, TYPESCRIPT, JAVASCRIPT.
 - **Status:** Completed.
 - **GitHub:** https://github.com/racso9817/model3
-  
+  ![modelo3](https://github.com/user-attachments/assets/c838d8ec-0b7b-41d7-8e56-2d6a90953708)
+
 ---
 
 ## Webpage Model for Business Use with Contact Form
@@ -43,6 +45,7 @@ Mi rol abarcó tanto el desarrollo front-end como algunas tareas de back-end, de
 - **Technologies:** HTML, CSS(SASS), BOOTSTRAP, TYPESCRIPT, JAVASCRIPT.
 - **Status:** Completed. (Locked due to private files)
 - **GitHub:** https://github.com/racso9817/model2
+![modelo2](https://github.com/user-attachments/assets/10ffef73-39c2-4b0d-831a-247ff8ce1384)
 
 ---
 
