@@ -1,6 +1,6 @@
 # Jeremy Jesus Sojos Fichamba – Portfolio
 
-¡Bienvenidos a mi portafolio! A continuación, se muestran algunos de los proyectos que he creado o en los que he contribuido, incluyendo prácticas y ejemplos.
+A continuación, se muestran algunos de los proyectos que he creado o en los que he contribuido, incluyendo prácticas y ejemplos.
 Algunos modelos están sujetos a derechos de autor (contrato).
 
 # Work Experiences/Experiencia de trabajo
