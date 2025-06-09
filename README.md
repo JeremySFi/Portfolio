@@ -3,6 +3,15 @@
 Welcome to my portfolio! Below are some of the projects I’ve built or contributed to. Including practices and examples.
 Some models locked behind copyright(contract).
 
+¡Bienvenidos a mi portafolio! A continuación, se muestran algunos de los proyectos que he creado o en los que he contribuido, incluyendo prácticas y ejemplos.
+Algunos modelos están sujetos a derechos de autor (contrato).
+
+# Work Experiences
+
+Los proyectos presentados en este portafolio fueron desarrollados durante mi etapa como freelancer, algunos solo y otros en colaboración. Ofrecíamos servicios de creación de sitios web personalizados para pequeños negocios, profesionales independientes y emprendedores.
+
+Mi rol abarcó tanto el desarrollo front-end como algunas tareas de back-end, dependiendo del proyecto. También participé en la estructuración de contenidos, pruebas funcionales y entrega final de los sitios. 
+
 ## Web Platform for teachers and students to learn online.
 - **Description:** Full web application built in collaboration, designed for teachers to sell online classes to students worldwide.
 - **Role:** Front-end development, Back-end.
