@@ -1,8 +1,5 @@
 # Jeremy Jesus Sojos Fichamba – Portfolio
 
-Welcome to my portfolio! Below are some of the projects I’ve built or contributed to. Including practices and examples.
-Some models locked behind copyright(contract).
-
 ¡Bienvenidos a mi portafolio! A continuación, se muestran algunos de los proyectos que he creado o en los que he contribuido, incluyendo prácticas y ejemplos.
 Algunos modelos están sujetos a derechos de autor (contrato).
 
